@@ -1,6 +1,6 @@
 # Project Background: End-to-End Retail Analytics for Omniretail
 
-**Omniretail Pvt Ltd** is a dynamic retail conglomerate operating across the electronics, clothing, home & kitchen, and grocery sectors. As the company scales its operations across four major regions (North, South, East, West), the leadership team is grappling with **"Profitless Growth"**—revenue is rising, but operational inefficiencies and customer churn are eroding margins.
+**Omniretail Pvt Ltd** is a dynamic retail conglomerate operating across the electronics, clothing, home & kitchen, and grocery sectors. As the company scales its operations across four major African regions (North, South, East, West), the leadership team is grappling with **"Profitless Growth"**, revenue is rising, but operational inefficiencies and customer churn are eroding margins.
 
 This project leverages a robust dataset of **500 transaction records** (representing a sample of **$18.5 Million** in revenue) to diagnose the health of the retail ecosystem. As a Lead Retail Analyst, my objective was to move beyond simple sales reporting to uncover the **"Regional Fractures"** and **"Retention Voids"** threatening long-term sustainability. The analysis serves as a strategic playbook for the C-Suite to transition from a "Spray-and-Pray" expansion model to a **Precision-Retail** strategy.
 
