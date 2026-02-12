@@ -124,7 +124,7 @@ This documentation provides a comprehensive overview of the **Calculated Tables*
     
     
     
-    ---
+---
 
 ### Data & Column Logics:
 
